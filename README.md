@@ -1,4 +1,4 @@
-# 김도겸 (Kim Dogyom)
+# 김도겸 (Kim Dogyeom)
 
 **반도체 장비 소프트웨어** — EtherCAT 실장비 제어 · HMI · 상태머신 · 장비 운영 기능 · Flask/웹 연동
 
@@ -21,8 +21,8 @@
 
 | 프로젝트 | 설명 | 시연 |
 |---------|------|------|
-| [SemiconductorUi](https://github.com/yaong832/SemiconductorUi) · [WPF 이식](https://github.com/yaong832/SemiconductorUiWPF) | EtherCAT 실장비 제어 · TmPhase 상태머신 · 장비 운영 기능 8종 · 공정 중 안전 잠금 6건 · 머지 PR 69건 | [YouTube](https://youtu.be/_ko-Cr73uJA) |
-| [etch_ui](https://github.com/yaong832/etch_ui) · [Flask](https://github.com/yaong832/Flask-etchflask) | WPF 식각 HMI · 3단계 인터락 · 가상 TM 이송 · AI 진단 연동 · 헤드리스 자동 검증 5종 PASS | — |
+| [SemiconductorUi](https://github.com/yaong832/SemiconductorUi) · [WPF 이식](https://github.com/yaong832/SemiconductorUiWPF) | EtherCAT 실장비 제어 · TmPhase 상태머신 · 장비 운영 기능 8종 · 공정 중 안전 잠금 6건 · 머지 PR 70건 이상 · GitHub Actions 빌드·테스트 | [YouTube](https://youtu.be/_ko-Cr73uJA) |
+| [etch_ui](https://github.com/yaong832/etch_ui) · [Flask](https://github.com/yaong832/Flask-etchflask) | WPF 식각 HMI · 3단계 인터락 · 가상 TM 이송 · AI 진단 연동 · GitHub Actions 헤드리스 검증 12종 | — |
 | EduGen (팀 · 비공개) · [ERD](https://github.com/yaong832/edugen-erd) | AI 수업자료 생성 플랫폼 · FastAPI · React · Celery · 통합 저장소 PR 101건 생성·머지 · 운영 배포 | — |
 | [SmartFarmSimulation](https://github.com/yaong832/SmartFarmSimulation) | WinForms ↔ Flask ↔ Web 3단 연동 | [YouTube](https://youtu.be/gh-pwRRpz9Q) |
 | [GarbageAI](https://github.com/yaong832/GarbageAI) | TensorFlow 8클래스 · Flask 웹 분류 | [YouTube](https://youtu.be/_AzK80T7Q70) |
